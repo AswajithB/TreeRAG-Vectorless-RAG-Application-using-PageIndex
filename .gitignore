@@ -1,0 +1,18 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/config.toml
+
+# OS Files
+.DS_Store
+Thumbs.db

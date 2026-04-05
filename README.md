@@ -1,5 +1,7 @@
 # 🌲 TreeRAG — Vectorless RAG Application
 
+🚀 **Live App:** [https://treerag.streamlit.app/](https://treerag.streamlit.app/)
+
 ## 🎥 Video Demonstration
 
 https://github.com/user-attachments/assets/f1f7331f-8581-40c7-b23a-031c1d7df905

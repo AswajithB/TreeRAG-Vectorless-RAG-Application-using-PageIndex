@@ -1,7 +1,7 @@
 # 🌲 TreeRAG — Vectorless RAG Application
 
 ## 🎥 Video Demonstration
-<video src="./Video demo/Screen Recording 2026-04-05 200045.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
+*(Insert your video here by editing this file on GitHub.com and dragging and dropping the compressed video file)*
 
 An interactive Streamlit application demonstrating **Reasoning-based Retrieval Augmented Generation (RAG)** without Vector Databases or Document Chunking. This project leverages the `pageindex` SDK and Groq's blazing fast `llama-3.3-70b-versatile` LLM.
 
